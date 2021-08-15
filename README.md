@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhav-secured&show_icons=true&locale=en&layout=compact" alt="anubhav-secured" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav-secured&show_icons=true&locale=en" alt="anubhav-secured" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-secured&" alt="anubhav-secured" /></p>
