@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anubhav singh</h1>
-<h3 align="center">I am enthusiastic in web development.</h3>
+<h3 align="center">Doing Web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-secured&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-secured" /> </p>
 
 - 🔭 I’m currently working on **Data structure & Algorithm**
 
-- 👯 I’m looking forward to do internships with **good tech company**
+- 👯 Looking for **Internships** 
 
 - 📫 How to reach me **anubhavsinghnit5132@gmail.com**
 
