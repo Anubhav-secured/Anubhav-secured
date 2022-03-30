@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anubhav singh</h1>
 <h3 align="center">Doing Web development.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-secured&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-secured" /> </p>
 
 - 🔭 I’m currently working on **Data structure & Algorithm**
-
-- 👯 Looking for **Internships** 
 
 - 📫 How to reach me **anubhavsinghnit5132@gmail.com**
 
@@ -28,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav-secured&show_icons=true&locale=en" alt="anubhav-secured" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-secured&" alt="anubhav-secured" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav-secured" alt="anubhav-secured" /></a> </p>
