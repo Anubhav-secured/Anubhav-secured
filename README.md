@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav singh</h1>
-<h3 align="center">Doing Web development.</h3>
+<h3 align="center">Web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-secured&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-secured" /> </p>
 
